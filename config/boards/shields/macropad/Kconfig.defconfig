@@ -3,4 +3,7 @@ if SHIELD_MACROPAD
 config ZMK_KEYBOARD_NAME
     default "leomacropad"
 
+config ZMK_USB
+    default y
+
 endif
